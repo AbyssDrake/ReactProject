@@ -39,6 +39,7 @@ function calculateWinner(squares){
 }
 /*
 test
+merge test
 */
 
 class Board extends React.Component {
